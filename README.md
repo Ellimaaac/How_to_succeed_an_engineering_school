@@ -1,10 +1,10 @@
 # Semestre 7 
 ## Mineure : Électronique Analogique (S7)
 Sujet de TP : [lien.pdf](Sujets/S7%20Poly%20TP%202A%202023_2024.pdf)
-- [Oscillateur Colpitts](S7_Mineure_Elec/2G2TP1_WEIDLE_LANFREDI_COLPITTS.pdf)
-- [Amplificateur classe C](S7_Mineure_Elec/2G2TP1_WEIDLE_LANFREDI_AmplificateurClasseC.pdf)
-- [Lignes de transmission](S7_Mineure_Elec/2G2TP1_WEIDLE_LANFREDI_Ligne_de_Transmission.pdf)
-- [Boucle à verrouillage de phase](S7_Mineure_Elec/2G2TP1_WEIDLE_LANFREDI_BOUCLE-A-VERROUILLAGE-DE-PHASE.pdf)
+- [Oscillateur Colpitts](S7_Mineure_Elec/Oscillateur_Colpitts)
+- [Amplificateur classe C](S7_Mineure_Elec/Amplificateur_ classe_C)
+- [Lignes de transmission](S7_Mineure_Elec/Lignes_de_transmission)
+- [Boucle à verrouillage de phase](S7_Mineure_Elec/Boucle_à_verrouillage_de_phase)
 
 ## Majeure : RF (S7)
 Sujet de TP : [lien.pdf](Sujets/Poly%20TP%20RF%202022%202023.pdf)
