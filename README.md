@@ -1,5 +1,3 @@
-# Toutes les options 
-
 # Automatique et Electronique Industrielle
 
 # Electronique des Systèmes de Communication
