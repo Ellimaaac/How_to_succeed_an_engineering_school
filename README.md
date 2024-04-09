@@ -6,7 +6,7 @@ Vous avez 3 branches dans ce github : 1 pour chaque année. Vous pouvez les tél
 Si vous voulez participer en ajoutant les vôtres, utiliser la section Pull requests. Nous prendrons que des comptes-rendus soignés, le but est de réussir, pas de se tirer une balle dans le pied. 
 
 ## Sommaire :
-- [1<sup>er</sup> Année](tree/1ere_Année)
+- [1<sup>er</sup> Année](tree/1ere_Ann%C3%A9e)
   
 - [2<sup>eme</sup> Année](tree/2eme_Année)
   
