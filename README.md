@@ -28,12 +28,12 @@ Sujet de TP : [lien.pdf](Sujets/LAB_Micro2_2023-2024_v03_EN.pdf)
 ## Mineure Signal
 ### Machine Learning
 Donnée necessaire aux TP : [dataset]()
-- [Regression Linéaire](Régréssion_Linéaire)
-- [Classification](Classification)
+- [Regression Linéaire](S7_Mineure_Signal/Régréssion_Linéaire)
+- [Classification](S7_Mineure_Signal/Classification)
 ### Communications Numériques
 Sujet de TP : [lien.pdf](Sujets_TP/TP_Comm_Num_2023.pdf)
-- [Communication en bande de base BPSK](Communication_en_bande_de_base_BPSK)
-- [Communication complexe équivalente en bande de base de la 16-QAM](2G2TP1_TP2Com_LANFREDI_WEIDLE)
+- [Communication en bande de base BPSK](S7_Mineure_Signal/Communication_en_bande_de_base_BPSK)
+- [Communication complexe équivalente en bande de base de la 16-QAM](S7_Mineure_Signal/Communications_complex_16QAM)
 
 # Semestre 8
 ## Mineure : Électronique Analogique 
