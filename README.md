@@ -25,7 +25,7 @@ Sujet de TP : [lien.pdf](Sujets/LAB_Micro2_2023-2024_v03_EN.pdf)
 - [Microprocesseur](S7_Mineure_Info/2G2TP1_TP4_MICROP_WEIDLE_LANFREDI.pdf)
 ## Majeure Informatique
 Les comptes-rendus de majeure info sont tous sous forme de github sous le nom : ***TP_EnseaSHELL***, pour le TP1 et ***TP_Client_TFTP***, pour le TP2
-Faites une recherche dans github avec ce nom et vous verrez le nombre de répertoires/comptes-rendus.
+Faites une recherche dans github avec ces noms et vous verrez le nombre de répertoires/comptes-rendus.
 
 
 # Semestre 8
