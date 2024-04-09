@@ -46,7 +46,8 @@ Sujet de TP : [lien.pdf](Sujets_TP/S7-Poly-TP-2A-2023_2024.pdf)
 - [Couplage inductif](S8_Mineure_CEM/Inductif)
 ## Majeure : Électronique Analogique 
 coming soon...
-## Mineure : Signal : Statistiques Multidimensionnelles et Inférentielles 
+## Mineure : Signal 
+### Statistiques Multidimensionnelles et Inférentielles 
 Sujet de TP : [lien.pdf](Sujets_TP/polyTP.pdf)
 - [Pierre-Feuille-Ciseaux](S8_Mineure_Signal/Pierre_Feuille_Ciseaux)
 - [Test d'hypothèses](S8_Mineure_Signal/Test_d'hypothèses)
