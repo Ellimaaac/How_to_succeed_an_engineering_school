@@ -6,6 +6,6 @@ Si vous voulez participer en ajoutant les vôtres, utiliser la section Pull requ
 ## Sommaire :
 - [1<sup>er</sup> Année](tree/1ere_Ann%C3%A9e)
   
-- [2<sup>eme</sup> Année](tree/2eme_Ann%C3%A9e)
+- [2<sup>eme</sup> Année](How_to_succeed_an_engineering_school/tree/2eme_Année)
   
 - [3<sup>eme</sup> Année](tree/3eme_Année)
