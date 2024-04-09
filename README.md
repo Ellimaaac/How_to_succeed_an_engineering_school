@@ -1,12 +1,12 @@
 # Semestre 7 
 ## Mineure : Électronique Analogique 
-Sujet de TP : [lien.pdf](Sujets/S7%20Poly%20TP%202A%202023_2024.pdf)
+Sujet de TP : [lien.pdf](Sujets_TP/S7%20Poly%20TP%202A%202023_2024.pdf)
 - [Oscillateur Colpitts](S7_Mineure_Elec/Oscillateur_Colpitts)
 - [Amplificateur classe C](S7_Mineure_Elec/Amplificateur_classe_C)
 - [Lignes de transmission](S7_Mineure_Elec/Lignes_de_transmission)
 - [Boucle à verrouillage de phase](S7_Mineure_Elec/Boucle_à_verrouillage_de_phase)
 ## Majeure : RF 
-Sujet de TP : [lien.pdf](Sujets/Poly%20TP%20RF%202022%202023.pdf)
+Sujet de TP : [lien.pdf](Sujets_TP/Poly%20TP%20RF%202022%202023.pdf)
 - [Oscillateur à quartz](S7_Majeure_Elec/Oscillateur_à_quartz)
 - [Paramètres caractéristiques des lignes réalisées sur circuit imprimé – Influence du boîtier sur la fréquence de résonance de condensateurs](S7_Majeure_Elec/Paramètres_caractéristiques_des_lignes)
 - [Mesures à l’analyseur de réseau, et identification de schémas à l’aide d’ADS](S7_Majeure_Elec/[Mesures_à_l’analyseur_de_réseau)
