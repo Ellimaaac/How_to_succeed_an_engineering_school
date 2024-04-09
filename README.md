@@ -7,8 +7,5 @@ Si vous voulez participer en ajoutant les vôtres, utiliser la section Pull requ
 
 ## Sommaire :
 - [1<sup>er</sup> Année]
-- [21<sup>eme</sup> Année]
-- [1<sup>eme</sup> Année]
--
--
-
+- [2<sup>eme</sup> Année]
+- [3<sup>eme</sup> Année]
