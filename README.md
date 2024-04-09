@@ -1,5 +1,3 @@
-# How_to_suceed_an_engineering_school
-
 # A LIRE IMPERATIVEMENT FEIGNASSE ! 
 
 Vous avez 3 branches dans ce github : 1 pour chaque année. Vous pouvez les télécharger individuellement ou simplement les consulter.
