@@ -12,7 +12,7 @@ Sujet de TP : [lien.pdf](Sujets_TP/Poly%20TP%20RF%202022%202023.pdf)
 - [Mesures à l’analyseur de réseau, et identification de schémas à l’aide d’ADS](S7_Majeure_Elec/[Mesures_à_l’analyseur_de_réseau)
 - [Mesure et adaptation d’une antenne PIFA](S7_Majeure_Elec/Mesure_et_adaptation_d’une_antenne_PIFA)
 ## Mineure Conversion d'energie 
-Sujet de TP : [lien.pdf](Sujets/TP_Complet1234_Conv2emAnnee_2020.pdf)
+Sujet de TP : [lien.pdf](Sujets_TP/TP_Complet1234_Conv2emAnnee_2020.pdf)
 - [Hacheur à accumulation (simulations avec PSIM)](S7_Mineure_CE/Hacheur)
 - [Hacheur 4 quadrants](S7_Mineure_CE/H4Q)
 - [Alimentation à découpage Flyback ](S7_Mineure_CE/Flyback)
@@ -20,7 +20,7 @@ Sujet de TP : [lien.pdf](Sujets/TP_Complet1234_Conv2emAnnee_2020.pdf)
 ## Majeure Conversion d'energie 
 coming soon ...
 ## Mineure Informatique - Microprocesseur
-Sujet de TP : [lien.pdf](Sujets/LAB_Micro2_2023-2024_v03_EN.pdf)
+Sujet de TP : [lien.pdf](Sujets_TP/LAB_Micro2_2023-2024_v03_EN.pdf)
 - [Microprocesseur](S7_Mineure_Info)
 ## Majeure Informatique
 - Les comptes-rendus de majeure info sont tous sous forme de github sous le nom : ***TP_EnseaSHELL***, pour le TP1 et ***TP_Client_TFTP***, pour le TP2
@@ -37,11 +37,11 @@ Sujet de TP : [lien.pdf](Sujets_TP/TP_Comm_Num_2023.pdf)
 
 # Semestre 8
 ## Mineure : Électronique Analogique 
-Sujet de TP : [lien.pdf](Sujets/S7-Poly-TP-2A-2023_2024.pdf)
+Sujet de TP : [lien.pdf](Sujets_TP/S7-Poly-TP-2A-2023_2024.pdf)
 - [Modulations analogiques (MESURES)](S8_Mineure_Elec/Mesure)
 - [Modulation d'amplitude SIMULATION](S8_Mineure_Elec/Simulation)
 ## Mineure : C.E.M 
-Sujet de TP : [lien.pdf](Sujets/S7-Poly-TP-2A-2023_2024.pdf)
+Sujet de TP : [lien.pdf](Sujets_TP/S7-Poly-TP-2A-2023_2024.pdf)
 - [Couplage capacitif](S8_Mineure_CEM/Capacitif)
 - [Couplage inductif](S8_Mineure_CEM/Inductif)
 ## Majeure : Électronique Analogique 
