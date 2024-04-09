@@ -37,10 +37,11 @@ Sujet de TP : [lien.pdf](Sujets_TP/TP_Comm_Num_2023.pdf)
 
 # Semestre 8
 ## Mineure : Électronique Analogique 
+### Modulations analogiques et bruit
 Sujet de TP : [lien.pdf](Sujets_TP/S7-Poly-TP-2A-2023_2024.pdf)
 - [Modulations analogiques (MESURES)](S8_Mineure_Elec/Mesure)
 - [Modulation d'amplitude SIMULATION](S8_Mineure_Elec/Simulation)
-## Mineure : C.E.M 
+### C.E.M 
 Sujet de TP : [lien.pdf](Sujets_TP/S7-Poly-TP-2A-2023_2024.pdf)
 - [Couplage capacitif](S8_Mineure_CEM/Capacitif)
 - [Couplage inductif](S8_Mineure_CEM/Inductif)
