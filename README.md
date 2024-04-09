@@ -28,7 +28,7 @@ Sujet de TP : [lien.pdf](Sujets/LAB_Micro2_2023-2024_v03_EN.pdf)
 ## Mineure Signal
 ### Machine Learning
 Donnée necessaire aux TP : [dataset]()
-- [Regression Linéaire](Régression_Linéaire)
+- [Regression Linéaire](Régréssion_Linéaire)
 - [Classification](Classification)
 ### Communications Numériques
 Sujet de TP : [lien.pdf](Sujets_TP/TP_Comm_Num_2023.pdf)
