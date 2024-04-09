@@ -18,7 +18,7 @@ Sujet de TP : [lien.pdf](Sujets/TP_Complet1234_Conv2emAnnee_2020.pdf)
 - [Hacheur à accumulation (simulations avec PSIM)](S7_Mineure_CE/Hacheur)
 - [Hacheur 4 quadrants](S7_Mineure_CE/H4Q)
 - [Alimentation à découpage Flyback ](S7_Mineure_CE/Flyback)
-- [Alimentation à découpage Forward](Forward)
+- [Alimentation à découpage Forward](S7_Mineure_CE/Forward)
 
 ## Mineure Informatique - Microprocesseur
 Sujet de TP : [lien.pdf](Sujets/LAB_Micro2_2023-2024_v03_EN.pdf)
