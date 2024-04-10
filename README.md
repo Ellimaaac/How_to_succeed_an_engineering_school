@@ -1,7 +1,7 @@
 # A LIRE IMPERATIVEMENT FEIGNASSE ! 
 
 Vous avez 3 branches dans ce github : 1 pour chaque année. Vous pouvez les télécharger individuellement ou simplement les consulter.
-Si vous voulez participer en ajoutant les vôtres, utiliser la section Pull requests. Nous prendrons que des comptes-rendus soignés, le but est de réussir, pas de se tirer une balle dans le pied. 
+Si vous voulez participer en ajoutant les vôtres, utiliser la section Issues. Nous prendrons que des comptes-rendus soignés, le but est de réussir, pas de se tirer une balle dans le pied. 
 
 ## Branches :
 - [1<sup>er</sup> Année](https://github.com/Ellimaaac/How_to_succeed_an_engineering_school/tree/1ere_Ann%C3%A9e)
