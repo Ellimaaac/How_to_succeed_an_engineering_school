@@ -8,4 +8,4 @@ Si vous voulez participer en ajoutant les vôtres, utiliser la section Issues. N
   
 - [2<sup>eme</sup> Année](https://github.com/Ellimaaac/How_to_succeed_an_engineering_school/tree/2eme_Ann%C3%A9e)
   
-- [3<sup>eme</sup> Année](tree/3eme_Année)
+- [3<sup>eme</sup> Année](https://github.com/Ellimaaac/How_to_succeed_an_engineering_school/tree/3eme_Ann%C3%A9e)
