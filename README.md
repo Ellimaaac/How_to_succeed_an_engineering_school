@@ -55,4 +55,5 @@ Sujet de TP : [lien.pdf](Sujets_TP/polyTP.pdf)
 - [Estimation de densité](S8_Mineure_Signal/Estimation_de_densité)
 - [Restauration de densité](S8_Mineure_Signal/Restauration_de_densité)
 
-## Majeure Signal
+## Majeure : Signal
+### Théorie de l'information et compression multimédia
