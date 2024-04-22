@@ -57,3 +57,4 @@ Sujet de TP : [lien.pdf](Sujets_TP/polyTP.pdf)
 
 ## Majeure : Signal
 ### Théorie de l'information et compression multimédia
+Sujet de TP : [lien.pdf](Sujets_TP/)
